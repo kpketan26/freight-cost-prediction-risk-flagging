@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+*/.DS_Store
+__MACOSX/
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# Virtual environment
+venv/
+env/
+freight_env/
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Logs
+*.log
