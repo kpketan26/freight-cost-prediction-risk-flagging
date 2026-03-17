@@ -161,7 +161,7 @@ inventory-invoice-analytics/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/inventory-invoice-analytics.git
+git clone https://github.com/kpketan26/freight-cost-prediction-risk-flagging.git
 ```
 2. Train and Save Best Fit Models:
 ```bash
